@@ -123,7 +123,7 @@ h2 {
 /* Jumbotron class */
 .jumbotron-container {
 	width: 100%;
-	background: linear-gradient(rgba(199, 15, 116, 0.6), rgba(153, 32, 32, 0.6)),
+	background: linear-gradient(rgba(140, 197, 207, 0.6), rgba(41, 172, 212, 0.6)),
 		url('https://roomlelo.in/static/home-bg.svg');
 	background-repeat: no-repeat;
 	background-position: center;
