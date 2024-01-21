@@ -48,6 +48,11 @@ body {
 	z-index: 11;
 }
 
+.logo{
+	width: 80px; 
+	border-radius: 50%;
+}
+
 /**Hamburger ICON **/
 .header-hamburger-icon {
 	width: 100px;
